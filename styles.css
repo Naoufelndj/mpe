@@ -16,7 +16,7 @@ button {
 }
 
 body {
-  background-color: var(--white);
+  background: var(--linear);
   width: 100%;
   overflow-x: hidden;
 }
@@ -29,6 +29,8 @@ body {
   --text: #333;
 
   --shadow: rgba(0, 0, 0, 0.16) 0px 1px 4px;
+
+  --linear: linear-gradient(160deg, #f9fff9 0%, #f0fff4 100%);
 
   --space-1: 8px;
   --space-2: 16px;
@@ -111,7 +113,6 @@ header .logo img {
 
 /* MAIN */
 main {
-  background-color: var(--white);
   display: flex;
   justify-content: center;
   align-items: center;
@@ -234,15 +235,16 @@ main .card .content h3:nth-child(4) {
   font-size: var(--font-md);
   border-radius: var(--radius-25);
   border: 1px solid var(--green);
-  background: transparent;
-  color: var(--green);
+  background: var(--green);
+  color: var(--white);
   transition: 0.2s;
 }
 
 .filters button.active,
 .filters button:hover {
-  background: var(--green);
+  background: var(--orange);
   color: var(--white);
+  border-color: var(--orange);
 }
 
 /* =========================
