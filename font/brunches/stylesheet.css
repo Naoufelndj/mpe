@@ -1,0 +1,120 @@
+@font-face {
+    font-family: 'Brunches Round Slanted';
+    src: url('Brunches-RoundSlanted.eot');
+    src: local('Brunches Round Slanted'), local('Brunches-RoundSlanted'),
+        url('Brunches-RoundSlanted.eot?#iefix') format('embedded-opentype'),
+        url('Brunches-RoundSlanted.woff2') format('woff2'),
+        url('Brunches-RoundSlanted.woff') format('woff'),
+        url('Brunches-RoundSlanted.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Brunches Rough Slanted';
+    src: url('Brunches-RoughSlanted.eot');
+    src: local('Brunches Rough Slanted'), local('Brunches-RoughSlanted'),
+        url('Brunches-RoughSlanted.eot?#iefix') format('embedded-opentype'),
+        url('Brunches-RoughSlanted.woff2') format('woff2'),
+        url('Brunches-RoughSlanted.woff') format('woff'),
+        url('Brunches-RoughSlanted.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Brunches Rough';
+    src: url('Brunches-Rough.eot');
+    src: local('Brunches Rough'), local('Brunches-Rough'),
+        url('Brunches-Rough.eot?#iefix') format('embedded-opentype'),
+        url('Brunches-Rough.woff2') format('woff2'),
+        url('Brunches-Rough.woff') format('woff'),
+        url('Brunches-Rough.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Brunches Round';
+    src: url('Brunches-Round.eot');
+    src: local('Brunches Round'), local('Brunches-Round'),
+        url('Brunches-Round.eot?#iefix') format('embedded-opentype'),
+        url('Brunches-Round.woff2') format('woff2'),
+        url('Brunches-Round.woff') format('woff'),
+        url('Brunches-Round.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Brunches Rounded';
+    src: url('Brunches-Rounded.eot');
+    src: local('Brunches Rounded'), local('Brunches-Rounded'),
+        url('Brunches-Rounded.eot?#iefix') format('embedded-opentype'),
+        url('Brunches-Rounded.woff2') format('woff2'),
+        url('Brunches-Rounded.woff') format('woff'),
+        url('Brunches-Rounded.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Brunches Rounded Slanted';
+    src: url('Brunches-RoundedSlanted.eot');
+    src: local('Brunches Rounded Slanted'), local('Brunches-RoundedSlanted'),
+        url('Brunches-RoundedSlanted.eot?#iefix') format('embedded-opentype'),
+        url('Brunches-RoundedSlanted.woff2') format('woff2'),
+        url('Brunches-RoundedSlanted.woff') format('woff'),
+        url('Brunches-RoundedSlanted.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Brunches Slanted';
+    src: url('Brunches-Slanted.eot');
+    src: local('Brunches Slanted'), local('Brunches-Slanted'),
+        url('Brunches-Slanted.eot?#iefix') format('embedded-opentype'),
+        url('Brunches-Slanted.woff2') format('woff2'),
+        url('Brunches-Slanted.woff') format('woff'),
+        url('Brunches-Slanted.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Brunches Stamp Slanted';
+    src: url('Brunches-StampSlanted.eot');
+    src: local('Brunches Stamp Slanted'), local('Brunches-StampSlanted'),
+        url('Brunches-StampSlanted.eot?#iefix') format('embedded-opentype'),
+        url('Brunches-StampSlanted.woff2') format('woff2'),
+        url('Brunches-StampSlanted.woff') format('woff'),
+        url('Brunches-StampSlanted.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Brunches';
+    src: url('Brunches-Regular.eot');
+    src: local('Brunches'), local('Brunches-Regular'),
+        url('Brunches-Regular.eot?#iefix') format('embedded-opentype'),
+        url('Brunches-Regular.woff2') format('woff2'),
+        url('Brunches-Regular.woff') format('woff'),
+        url('Brunches-Regular.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Brunches Stamp';
+    src: url('Brunches-Stamp.eot');
+    src: local('Brunches Stamp'), local('Brunches-Stamp'),
+        url('Brunches-Stamp.eot?#iefix') format('embedded-opentype'),
+        url('Brunches-Stamp.woff2') format('woff2'),
+        url('Brunches-Stamp.woff') format('woff'),
+        url('Brunches-Stamp.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+}
+
